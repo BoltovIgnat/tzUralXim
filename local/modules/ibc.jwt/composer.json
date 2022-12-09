@@ -1,0 +1,11 @@
+{
+    "name": "boltovignat/ibc.jwt",
+    "authors": [
+        {
+            "name": "ibc"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
